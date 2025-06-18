@@ -37,4 +37,4 @@ Oferecer ao usuário uma solução prática para:
 
 ## Autor
 
-Desenvolvido por Aline de Queiroz como parte do desafio prático da DIO – Formação em Excel para o Mercado Financeiro.
+Desenvolvido por Aline de Queiros como parte do desafio prático da DIO – Formação em Excel com IA.
